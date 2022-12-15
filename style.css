@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800,700);
+
+body{
+    bg
+}
+h2 {
+    font-size: 9.0em;
+    text-transform: uppercase;
+    font-family: 'Open Sans Pro', sans-serif;
+    background: url(https://24.media.tumblr.com/tumblr_m87dri70zh1qzla33o1_500.gif);
+    background-size: cover;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h1 {
+    font-size: 32px;
+    color: #444;
+    font-family: Source Sans Pro, Arial, sans-seirf;
+}
